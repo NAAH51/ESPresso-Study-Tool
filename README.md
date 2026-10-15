@@ -1,4 +1,4 @@
-# ESPresso Study Companion
+# ESPresso Study tool
 
 A SquareLine-editable Pomodoro study timer and habit tracker for the LCDWiki 2.8-inch ESP32-S3 touch display.
 
